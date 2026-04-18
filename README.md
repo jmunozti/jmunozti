@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jmunozti/jmunozti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Self-healing clusters. Drift-proof infrastructure. Guardrails over gates.
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I build the platforms that turn *"deploy Friday, incident Saturday"* into boring weekends.
+Migrations that can't corrupt production. Clusters that catch bad deploys and roll back before oncall sees the page. Compliance that passes the first time. Infrastructure that ships behind a single `make deploy`.
+
+**Stack I live in** — AWS · Kubernetes · Terraform · ArgoCD · Python · Go · OPA - AI - and more
+
+---
+
+<div align="center">
+
+<a href="mailto:jmunozti@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
